@@ -19,7 +19,6 @@ Note: This project will be posted on the Arduino Project Hub soon. Stay tuned...
 - 30x Tactile Switches
 - White Vinyl (for team names)
 - Black Paint
-
 - Laser Cutter
 - 3D Printer (for diffusion bulbs)
 - Glue
