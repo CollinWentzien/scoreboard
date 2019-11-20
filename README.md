@@ -5,6 +5,26 @@ This project is a two-part system: a scoreboard controller and the scoreboard it
 
 Note: This project will be posted on the Arduino Project Hub soon. Stay tuned...
 
+# Parts:
+- Arduino Uno
+- Arduino Mega
+- 2x NRF24L01 Transceivers
+- WS2812B LED Strip (5 meters, 60 LED/m)
+- Federal Signal Vibratone 350 Horn
+- 24" x 12" MDF (or wood equivalent)
+- Blank PCBs (various lengths)
+- 2x Arduino Power Supply
+- 5V 20A Power Supply (for LED strip)
+- 16 x 2 Green Character LCD
+- 30x Tactile Switches
+- White Vinyl (for team names)
+- Black Paint
+
+- Laser Cutter
+- 3D Printer (for diffusion bulbs)
+- Glue
+- Soldering Iron
+
 # Libraries needed:
 - RF24
 - LiquidCrystal
