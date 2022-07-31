@@ -1,9 +1,9 @@
 # DIY Scoreboard and Controller
 DIY Scoreboard and Controller project:
 
-This project is a two-part system: a scoreboard controller and the scoreboard itself. Arduino code can be found under "arduino code," while the Adobe Illustrator files and other design files are found under "files."
+This project is a two-part system: a scoreboard controller and the scoreboard itself. Both systems interact wirelessly but need wall power to operate. Arduino code can be found under "arduino code," while the Adobe Illustrator files and other design files are found under "files."
 
-All Illustrator files coming soon, as I still need to find them haha
+Update 7/30/22: Added (I think) all Illustrator files. Note all files are original, and therefore may be slightly different than how my scoreboard eventually turned out.
 
 Arduino Project Hub Page: https://create.arduino.cc/projecthub/collin-w/diy-basketball-scoreboard-90cb27
 
