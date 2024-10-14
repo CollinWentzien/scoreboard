@@ -5,7 +5,7 @@ This project is a two-part system: a scoreboard controller and the scoreboard it
 
 Update 7/30/22: Added (I think) all Illustrator files. Note all files are original, and therefore may be slightly different than how my scoreboard eventually turned out.
 
-Arduino Project Hub Page: https://create.arduino.cc/projecthub/collin-w/diy-basketball-scoreboard-90cb27
+Hackster project: https://www.hackster.io/collin-w/diy-basketball-scoreboard-90cb27
 
 # Parts:
 - Arduino Uno
